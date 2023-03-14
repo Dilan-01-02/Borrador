@@ -135,6 +135,33 @@
        
        ![image](https://user-images.githubusercontent.com/124721286/225166997-57a8b9e9-d947-4e1e-9b55-e92dffa8d88e.png)
 
+   15. Código completo
+        
+        ![image](https://user-images.githubusercontent.com/124721286/225167155-13c0510e-0afa-4376-948b-6a8597f0b79a.png)
+        ![image](https://user-images.githubusercontent.com/124721286/225167220-9d57abbc-a512-4cb8-8573-b8f2ebd9a1f4.png)
+        ![image](https://user-images.githubusercontent.com/124721286/225167276-59301dad-b08e-415b-9c22-a8c6476c2970.png)
+        ![image](https://user-images.githubusercontent.com/124721286/225167311-ca1a1cc0-1ff3-43af-8004-e001b76fc46a.png)
+        ![image](https://user-images.githubusercontent.com/124721286/225167352-e08f6d52-072f-48dc-89ac-1f7d2a76c0aa.png)
+        ![image](https://user-images.githubusercontent.com/124721286/225167389-4dad3515-ed2d-4e01-a2d8-52ef7cd439c1.png)
+        ![image](https://user-images.githubusercontent.com/124721286/225167423-4807aa4b-2f89-4950-a871-eeb1bdef04ba.png)
+        ![image](https://user-images.githubusercontent.com/124721286/225167538-0c22d092-6da5-40fe-9724-f93cd88702d7.png)
+        ![image](https://user-images.githubusercontent.com/124721286/225167578-241846f0-59cf-457b-b8f9-4ed05e852a06.png)
+        ![image](https://user-images.githubusercontent.com/124721286/225167635-055e1879-90ca-409f-a226-044526f1131e.png)
+        ![image](https://user-images.githubusercontent.com/124721286/225167681-fc43dcd6-2991-47fb-bbcd-94f0f0a0ef08.png)
+        ![image](https://user-images.githubusercontent.com/124721286/225167725-a9a69704-ab4f-4356-9f95-94ec62d109f1.png)
+        ![image](https://user-images.githubusercontent.com/124721286/225167842-22feb582-e3d0-482c-bbfa-3b4873753a92.png)
+        ![image](https://user-images.githubusercontent.com/124721286/225167914-ef447554-5896-4bb3-b48d-27a41af45688.png)
+        
+## Décimo punto 
+
+   Escriba un programa que dada una distancia calcule:
+
+   - El tiempo que le tomaría a la luz recorrer la distancia.
+   - El tiempo que le tomaría al sonido (en el aire) recorrer la distancia.
+   - El tiempo que le tomaría al vehiculo comercial más veloz recorrer la distancia.
+   - El tiempo que le tomaría a Bolt recorrer la distancia.
+
+
 
       
 
