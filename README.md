@@ -105,7 +105,37 @@
 
       ![image](https://user-images.githubusercontent.com/124721286/225165273-8e3a53f8-2156-485f-a5d5-2abdce60ae88.png)
       
-   10. 
+   10. En el siguiente item nos piden que organicemos los números de forma ascendente. Sin embargo, al tener ya los números ordenados, lo único que deberemos hacer es mostrarle al usuario un mensaje situando como primer número a "menor", seguido de esto a "medio1", luego a "medio2", después "medio3" y por último a "mayor".
+
+   ![image](https://user-images.githubusercontent.com/124721286/225165806-d7bd98dd-92a5-4dd0-becf-3fb7b146527e.png)
+
+   11. Luego de haber hecho esto, debemos organizar los números en forma descendente, asi que realizaremos lo mismo que en el paso anterior solo que esta vez el orden sera primero "mayor", el siguiente será "medio3", luego "medio2", seguido de "medio1" y en último lugar posicionaremos a "menor".
+
+   ![image](https://user-images.githubusercontent.com/124721286/225166099-b2f77a39-fb9b-4ce0-8846-130286ba4132.png)
+
+   12. El penúltimo item nos pide que elevemos el mayor número al menor número, para esto, simplemente usamos el simbolo de potencia en python, El resultado de esta operación lo guardaremos en la variable pot, y una vez hecho el cálculo mostraremos el resultado en un mensaje.
+    
+       ![image](https://user-images.githubusercontent.com/124721286/225166432-8cfd9cee-76fa-42a4-9157-60a35a6856c6.png)
+       
+   13. Por último, debemos calcular la raiz cúbica del menor número, asi que, usando el simbolo de potencia en python, elevaremos el menor número a la 1/3. Cuando tengamos el resultado, lo guardaremos en la variable raiz y le mostraremos el resultado al usuario.
+
+       ![image](https://user-images.githubusercontent.com/124721286/225166727-13248533-2643-4990-9b1c-2edc041d4ea5.png)
+
+   14. Ejemplo usando los números 45, 21, 7, 56 y 2.
+
+       ![image](https://user-images.githubusercontent.com/124721286/225166858-2930a780-da15-4d6e-b9c3-b7dbbce2778c.png)
+       
+       ![image](https://user-images.githubusercontent.com/124721286/225166880-12175733-a113-461d-a39b-016f5170bd19.png)
+       
+       ![image](https://user-images.githubusercontent.com/124721286/225166902-49ca5b6e-0bfb-4e0c-b419-3f3bab5e6cc0.png)
+       
+       ![image](https://user-images.githubusercontent.com/124721286/225166929-d681a313-4517-461f-a191-62fe0d6cf9c3.png)
+       
+       ![image](https://user-images.githubusercontent.com/124721286/225166952-cead5d65-4058-439f-ada6-96b4f12a299d.png)
+       
+       ![image](https://user-images.githubusercontent.com/124721286/225166997-57a8b9e9-d947-4e1e-9b55-e92dffa8d88e.png)
+
+
       
 
       
