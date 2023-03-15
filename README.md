@@ -160,6 +160,37 @@
    - El tiempo que le tomaría al sonido (en el aire) recorrer la distancia.
    - El tiempo que le tomaría al vehiculo comercial más veloz recorrer la distancia.
    - El tiempo que le tomaría a Bolt recorrer la distancia.
+   
+   1. Como primer paso le pediremos al usuario que nos digite una distancia en metros. Esta distancia se guardará el la variable "x".
+      
+      ![image](https://user-images.githubusercontent.com/124721286/225168303-e92e9fd8-3140-41b7-bdfd-2ddadf06f15d.png)
+      
+   2. Seguido de esto calcularemos el tiempo que le tomaria a la luz resrorres esa distancia. Esto lo haremos dividiendo la distancia "x" entre la velocidad de la luz en metros sobre segundo (299.792.458 m/s). El resultado lo guardaremos en la variable "tluz".
+
+      ![image](https://user-images.githubusercontent.com/124721286/225168534-92943f2d-8de4-4cac-b351-5ffafea2b058.png)
+      
+   3. Igual que en el paso anterior, calcularemos el tiempo pero esta vez el que le toma al sonido en recorrer la distancia "x" usando, dividiendo la x sobre la velocidad del sonido en metros sobre segundo (343.2 m/s). El resultado lo guardaremos en la variable "tsonido".
+ 
+      ![image](https://user-images.githubusercontent.com/124721286/225168993-971fb60e-60d4-4153-9416-f9e189e0dd52.png)
+      
+   4. Para el tiempo que le tomaria al vehiculo comercial mas caro, repetiremos el proceso de los pasos anterios sol que esta vez usando la velocidad correspondiente en metros sobre segundo (141.111 m(/s). El resultado lo guardaremos en la variable "tvehiculo".
+
+      ![image](https://user-images.githubusercontent.com/124721286/225169520-c05d1611-16b5-4024-8da9-5a2f58c5b91f.png)
+      
+   5. Ahora, calculamos el tiempo que le tomaria a Usain Bolt recorrer la distancia ingresada, dividiendo la misma entre la velocidad del corredor en metros sobre segundo (12.4 m/s). El resultado lo guardaremos en la variable tbolt.
+
+      ![image](https://user-images.githubusercontent.com/124721286/225170041-d724e43e-7608-45b6-b510-69870115e02e.png)
+      
+   6. Cómo paso final le mostraremos al usuario varios mensajes indicando los tiempos calculados para cada caso.
+
+      ![image](https://user-images.githubusercontent.com/124721286/225170108-6940ccdb-ac4c-4176-bffd-c63052c845db.png)
+
+   7. Ejemplo usando una distacncia de 100.000.000 metros.
+      
+      ![image](https://user-images.githubusercontent.com/124721286/225170197-29566ae6-8c26-4c5c-b818-d9702f4a16c5.png)
+      
+      ![image](https://user-images.githubusercontent.com/124721286/225170242-3b928fac-f54a-4589-9d97-de25be2142f4.png)
+   
 
 
 
