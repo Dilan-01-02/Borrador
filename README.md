@@ -1,5 +1,10 @@
 # Borrador
 
+## Primer punto Quiz
+   Dilan Torres : 1000353530
+   
+   ![image](https://user-images.githubusercontent.com/124721286/225171932-6644b634-fdae-4a8f-a69d-dcf4c304ed4f.png)
+
 ## Cuarto punto
 
    Realice un programa que lea dos números reales y determine si el primero es múltiplo del segundo.
@@ -10,11 +15,11 @@
       
    2.  Para saber si el primer numero es múltimplo del segundo, lo que debemos hacrer es comprobar si el residuo de dividir el primero por el segundo es igual a cero.
    
-      ![image](https://user-images.githubusercontent.com/124721286/225160077-f51bc1c0-7cbb-49c3-acc2-cf9aab3c7830.png)
+          ![image](https://user-images.githubusercontent.com/124721286/225160077-f51bc1c0-7cbb-49c3-acc2-cf9aab3c7830.png)
 
    3.  Si lo anterior sucede, podremos decir que el primero número ingresado es múltiplo del segundo.
    
-      ![image](https://user-images.githubusercontent.com/124721286/225160193-4b5f14e0-bb89-403d-9795-4896bacc88b7.png)
+       ![image](https://user-images.githubusercontent.com/124721286/225160193-4b5f14e0-bb89-403d-9795-4896bacc88b7.png)
     
    4. Si por le contrario, el residuo al realizar la división del primero por el segundo es diferente de creo, diremos que el primer número no es múltiplo del segundo.
    
@@ -190,6 +195,11 @@
       ![image](https://user-images.githubusercontent.com/124721286/225170197-29566ae6-8c26-4c5c-b818-d9702f4a16c5.png)
       
       ![image](https://user-images.githubusercontent.com/124721286/225170242-3b928fac-f54a-4589-9d97-de25be2142f4.png)
+      
+### Diagrama de flujo punto 10 
+   [![](https://mermaid.ink/img/pako:eNo1kc9PgzAUgP8V8k6YMKQtjJZEEzfG9OBJT44dKnSuEdqFFWVb9r_bFXynl_d9eT_yLlDpWkAGu0b_VnveGe89L5Vn42nzomQl9dabzR69hV802nBlhDfcjcLCgaU_eA9eLY8WVpJPbOlY7pumP1s83GPGUobjhE5C7oSVb45ayVo7h8QkxBNfOV745kfsZdU3o4FiFCKEJqdwzto3n7oxI8dh_N9h7ejzppBqWyoIoBVdy2Vtj73cjBLMXrSihMymNe--SyjV1Xq8N_rtpCrITNeLAPpDzY3IJf_qeAvZjjdHWz1wBdkFBshwmoSYURzhlFBGcDIP4AQZoSGL5zRCJMU4pXN2DeCste0QhSyKCImp5UmKSBKAqKXR3ev4C_cSN-HD-bc1rn_SVXdW?type=png)](https://mermaid.live/edit#pako:eNo1kc9PgzAUgP8V8k6YMKQtjJZEEzfG9OBJT44dKnSuEdqFFWVb9r_bFXynl_d9eT_yLlDpWkAGu0b_VnveGe89L5Vn42nzomQl9dabzR69hV802nBlhDfcjcLCgaU_eA9eLY8WVpJPbOlY7pumP1s83GPGUobjhE5C7oSVb45ayVo7h8QkxBNfOV745kfsZdU3o4FiFCKEJqdwzto3n7oxI8dh_N9h7ejzppBqWyoIoBVdy2Vtj73cjBLMXrSihMymNe--SyjV1Xq8N_rtpCrITNeLAPpDzY3IJf_qeAvZjjdHWz1wBdkFBshwmoSYURzhlFBGcDIP4AQZoSGL5zRCJMU4pXN2DeCste0QhSyKCImp5UmKSBKAqKXR3ev4C_cSN-HD-bc1rn_SVXdW)
+
+   
    
 
 
